@@ -59,11 +59,9 @@ The Real-Time Polling App is a simple application that allows users to participa
 real-time-polling-app/
 │
 ├── server/
-│   ├── __init__.py
 │   └── app.py               # WebSocket server implementation
 │
 └── client/
-    ├── __init__.py
     └── client.py            # WebSocket client implementation
 ```
 
